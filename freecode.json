@@ -1,1 +1,8 @@
-["NERO2024FREE", "TRYIT123"]
+{
+  "code": "FREE2026",
+  "expiry": "2026-10-31",
+  "accounts": [
+    { "code": "NERO-FREE", "plan": "free", "start": "2026-10-02", "days": 30 },
+  
+  ]
+}
