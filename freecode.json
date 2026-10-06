@@ -1,7 +1,1 @@
-{
-  "code": "FREE2026",
-  "expiry": "2026-12-31",
-  "accounts": [
-    { "code": "NERO-FREE", "plan": "free", "start": "2026-10-01", "days": 365 }
-  ]
-}
+{ "codes": ["FREE2026", "NERO-FREE"] }
